@@ -1,5 +1,3 @@
-!pip install readability
-
 import os
 import streamlit as st
 from readability import Readability
